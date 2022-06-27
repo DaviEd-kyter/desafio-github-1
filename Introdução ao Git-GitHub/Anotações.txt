@@ -1,2 +1,27 @@
 Link para Download do Git: https://git-scm.com/downloads
 O git Bash é um terminal extendido para otimizar o uso do Git.
+Git é um sistema de controle de versão de arquivos,para a construção de projetos, como sites, códigos ou softwares, onde vários desenvolvedores podem trabalhar ao mesmo tempo, de maneira rápida, inteligente e eficiente.
+
+O Github é um serviço web que oferece diversas funcionalidades,Resumindo, você poderá usar gratuitamente o github para hospedar seus projetos pessoais.
+
+Resumo
+Comandos Básicos para um bom desempenho no terminal
+Windows         Unix
+- cd           - cd
+- dir          - ls
+- mkdir        - mkdir
+- del/rmdir    - rm -rf
+- clear
+dir/ls - lista de diretórios
+cd - Navegar entre as pastas
+clear - limpar o terminal
+mkdir - criar pastas
+echo "" > "".txt - criar arquivo
+del/rmdir -  deletar pastas ou arquivos
+git add <arquivos...> - Este comando adiciona o(s) arquivo(s) em um lugar que chamamos de INDEX, que funciona como uma área do git no qual os arquivos possam ser enviados ao Github.
+git commit -m - "comentário qualquer" Este comando realiza o que chamamos de “commit”, que significa pegar todos os arquivos que estão naquele lugar INDEX que o comando add adicionou e criar uma revisão com um número e um comentário, que será vista por todos.
+git push Push -  (empurrar) é usado para publicar todos os seus commits para o github.
+git status Exibe o status do seu repositório atual
+git clone "url" - O comando para clonar o projeto
+
+Tudo que você queria saber sobre Git e GitHub
